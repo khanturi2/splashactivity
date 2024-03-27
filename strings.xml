@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">splashActivity</string>
+    <string name="second_activity_title">SECOND ACTIVITY</string>
+
+</resources>
